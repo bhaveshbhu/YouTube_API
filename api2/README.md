@@ -1,7 +1,7 @@
 	
 	1) Register your Application : https://code.google.com/apis/console
 	2) Enable YouTube API under services menu on the left Panel
-	3) Open Config.php and set $client_id ,$client_secret and $redirect_uri.
+	3) Open Config.php and set $client_id ,$client_secret and $redirect_uri.Then Just Browse to index.php and get started.
 	4) function get_user_data() : Used to send post and header request via CURL
 	5) function printJson($result_array) : It is an recursive function to Parse Json Data.
 	
